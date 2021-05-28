@@ -18,7 +18,7 @@ Here is a list of the different algorithms implemented in this project
 Clone this repository :
 
 ```bash
-git clone https://github.com/AdrienC21/abm-financial-data.git
+git clone https://github.com/AdrienC21/recursive-fractal-graphics.git
 ```
 
 ## How to use
@@ -124,7 +124,7 @@ Maze solver that use a recursive algorithm. Draw the maze, the coordinates explo
 ![alt text](https://github.com/AdrienC21/recursive-fractal-graphics/blob/main/images/init_maze.png?raw=true)
 ![alt text](https://github.com/AdrienC21/recursive-fractal-graphics/blob/main/images/path.png?raw=true)
 
-(OPTIONAL) Edit in run_maze_solver.py the following lines :
+Edit in run_maze_solver.py the following lines :
 
 ```python
 n = 9  # size of the n*n maze
